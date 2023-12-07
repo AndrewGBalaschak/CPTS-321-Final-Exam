@@ -1,0 +1,4 @@
+Assumptions:
+ - Any transaction can be disputed within 5 minutes based on transfer ID, not just most recent.
+ - Employee will be given transfer ID from Client to dispute a transaction.
+ - 
